@@ -1,5 +1,5 @@
 # fdf
-FdF est un visualiseur fil de fer 3D **MACOS seulement**
+FdF est un visualiseur fil de fer 3D **(fonctionne sur MACOS seulement)**
 
 utilisation :
 
